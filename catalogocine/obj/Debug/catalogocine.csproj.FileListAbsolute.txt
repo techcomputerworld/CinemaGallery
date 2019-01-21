@@ -1,0 +1,94 @@
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+\\WINDOWS7\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+E:\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+E:\programacion .net\visual studio 2010 C#\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.sdf
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\windows7ultimate compartida\catalogo cine visual studio 2008 sin base de datos\catalogocine\catalogocine\bin\Debug\catalogocine.sdf
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.PeliculasActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.PeliculasActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery version anterior\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.FormActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.FormActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.PeliculasActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.FormActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.PeliculasActores.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\catalogo cine Cinema Gallery ultima copia - copia\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.exe.config
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.exe
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\bin\Debug\catalogocine.pdb
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.AcercaDe.resources
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.FormActores.resources
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.Form1.resources
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.PeliculasActores.resources
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.Properties.Resources.resources
+C:\Users\onzulin\Desktop\Cinema Gallery\catalogocine\catalogocine\obj\Debug\catalogocine.csproj.GenerateResource.Cache
